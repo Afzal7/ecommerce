@@ -1,9 +1,9 @@
 # Change these
 
 
-set :repo_url,        'git@github.com:w3villa/n-gage.git'
-set :application,     'n-gage'
-set :user,            'w3villa'
+set :repo_url,        'git@github.com:Afzal7/ecommerce.git'
+set :application,     'ecommerce'
+set :user,            'ubuntu'
 set :puma_threads,    [4, 16]
 set :puma_workers,    0
 
