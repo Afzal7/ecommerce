@@ -23,6 +23,7 @@ module Ecommerce
 
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 5.1
+    config.secret_key_base = '0a66d440c1401865e072f1c2d6018d4c8f95c1ad1b71002558ebdfb5dfed9ead3b5cc94c835e02f2f2c3b176f3dfe1ca2665ebaaed41c861cb50b05ec6d66c0f'
 
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
